@@ -1,19 +1,19 @@
-# my budget tracker
-this is my work
+# My Budget Tracker
 
-## about
-My Budget Tracker is a simple website that helps users record and keep track of their daily expenses. It allows users to enter an expense name, amount, category, and date.
-
+## About
+My Budget Tracker is a simple web application designed to help users record and view their expenses. This project was improved during Week 3 by focusing on visual design and CSS styling.
 ## Features
-Expense table with five sample expenses
-Add Expense form
-Category dropdown with five options
-Budget Tracker logo
-Budgeting tips video
-How to use the tracker section
-Table row hover effects
-Input focus effects
+Visual Design
 
+I used a consistent color palette with dark blue, green, light blue, white, and light gray colors. These colors are used across the page headings, form, button, table, and other important elements.
+
+Typography
+
+I used Google Fonts to improve the appearance and readability of the application. Poppins is used for headings and buttons, while Open Sans is used for the main body text and form content.
 ## Technologies
 HTML
+index.html - Contains the structure of the Budget Tracker.
 CSS
+style.css - Contains the visual styling, colors, typography, table styling, form styling, and CSS box model.
+## Advanced CSS Selectors
+Margin, padding, borders, and border-radius are used throughout the application to separate sections and create clear visual cards for the page heading, Add Expense form, and Expense Table.
